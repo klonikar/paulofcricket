@@ -1,0 +1,2 @@
+serviceClass: com.roland.ui.client.GreetingService
+path: F89AC292AAB20C41570E4C936306D274.gwt.rpc

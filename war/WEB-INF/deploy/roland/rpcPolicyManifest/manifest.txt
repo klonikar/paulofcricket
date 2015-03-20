@@ -1,0 +1,4 @@
+# Module roland
+# RPC service class, partial path of RPC policy file
+com.roland.ui.client.GreetingService, F89AC292AAB20C41570E4C936306D274.gwt.rpc
+com.roland.ui.client.LoginService, 9FA29664DC9048F59A08AC9F9770B78A.gwt.rpc

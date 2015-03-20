@@ -1,0 +1,2 @@
+serviceClass: com.roland.ui.client.LoginService
+path: 9FA29664DC9048F59A08AC9F9770B78A.gwt.rpc
